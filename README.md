@@ -16,6 +16,8 @@ Contents:
 - Control of the servo motors in arduino
 - Joystick manual control
 
+Credits: natanielruiz, HyeonSeok Oh
+
 ![Circuits](https://user-images.githubusercontent.com/60720982/75009354-d35f1f00-54bd-11ea-8f5b-58109552052c.jpg)
 ![Final](https://user-images.githubusercontent.com/60720982/75009355-d528e280-54bd-11ea-84f4-cb3cab7c9a9e.jpg)
 ![Fronview from rasp1](https://user-images.githubusercontent.com/60720982/75009357-d5c17900-54bd-11ea-8322-7f30f8b0cb84.jpg)
