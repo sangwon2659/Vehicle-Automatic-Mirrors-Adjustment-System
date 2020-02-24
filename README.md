@@ -12,6 +12,10 @@ Controlling the Mirrors
 
 Contents:
 - Face Detection in two raspberry pi
+    - dlib
+    - numpy
+    - opencv-python
+    - Download dat file in the model folder accordingly
 - Voice Detection in one of the two raspberry pi
     - google-cloud-speech==0.36.3
     - pyaudio==0.2.11
