@@ -13,6 +13,9 @@ Controlling the Mirrors
 Contents:
 - Face Detection in two raspberry pi
 - Voice Detection in one of the two raspberry pi
+    - google-cloud-speech==0.36.3
+    - pyaudio==0.2.11
+    - six==1.12.0
 - Control of the servo motors in arduino
 - Joystick manual control
 
